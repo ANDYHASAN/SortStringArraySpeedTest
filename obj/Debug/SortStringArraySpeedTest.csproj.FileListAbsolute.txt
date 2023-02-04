@@ -1,0 +1,8 @@
+C:\Users\GOAT\source\repos\SortStringArraySpeedTest\bin\Debug\SortStringArraySpeedTest.exe.config
+C:\Users\GOAT\source\repos\SortStringArraySpeedTest\bin\Debug\SortStringArraySpeedTest.exe
+C:\Users\GOAT\source\repos\SortStringArraySpeedTest\bin\Debug\SortStringArraySpeedTest.pdb
+C:\Users\GOAT\source\repos\SortStringArraySpeedTest\obj\Debug\SortStringArraySpeedTest.csproj.AssemblyReference.cache
+C:\Users\GOAT\source\repos\SortStringArraySpeedTest\obj\Debug\SortStringArraySpeedTest.csproj.SuggestedBindingRedirects.cache
+C:\Users\GOAT\source\repos\SortStringArraySpeedTest\obj\Debug\SortStringArraySpeedTest.csproj.CoreCompileInputs.cache
+C:\Users\GOAT\source\repos\SortStringArraySpeedTest\obj\Debug\SortStringArraySpeedTest.exe
+C:\Users\GOAT\source\repos\SortStringArraySpeedTest\obj\Debug\SortStringArraySpeedTest.pdb
