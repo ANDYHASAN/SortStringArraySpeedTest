@@ -1,0 +1,2 @@
+# SortStringArraySpeedTest
+The speed of sorting a string array will depend on the size of the array and the algorithm used for sorting. Generally, quick sort has a time complexity of O(n log n), which makes it one of the faster sorting algorithms available. Bubble sort has a time complexity of O(n^2), which makes it much slower than quick sort. The speed of sorting an array will also depend on the hardware and software used to perform the operation.
